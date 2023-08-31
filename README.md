@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://www.linkedin.com/in/leomartz/overlay/background-image/" align="center" style="width: 100%" />
+</div>  
+
 ### <div align="center">I'm Leo, a full-time full-stack developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
