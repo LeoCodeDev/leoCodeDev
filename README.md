@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.linkedin.com/in/leomartz/overlay/background-image/" align="center" style="width: 100%" />
+<img src="[https://www.linkedin.com/in/leomartz/overlay/background-image/](https://media.licdn.com/dms/image/C4D16AQHi-ck4OIEjSA/profile-displaybackgroundimage-shrink_350_1400/0/1649764323842?e=1698883200&v=beta&t=9-5NS1XwaUeGnT7ZYh3Bmvbw44bHCIJPyCNkii5W8Q4)" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">I'm Leo, a full-time full-stack developer 👨‍💻 working remotely since 2019 🚀</div>  
